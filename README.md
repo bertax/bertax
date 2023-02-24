@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bertax
-- 👀 I’m interested in crypto world (Solana by heart)
-- 🌱 I’m currently learning Rust/Solidity
-- 💞️ I’m looking to collaborate on Solana projects but I'm also open for other chains :)
+- 👀 I’m interested in woodworking :D and AI.
+- 🌱 I’m currently learning React, Next.js, Rust.
+- 💞️ I’m looking to collaborate on projects that might thrill me.
 - 📫 How to reach me? Soon or later you will find the way.
 
 <!---
